@@ -27,3 +27,5 @@ doc/
 
 #agent code
 src/threeChess/agents/
+
+*.DS_Store
